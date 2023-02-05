@@ -27,7 +27,7 @@ I'm a detail-oriented, self-motivated Frontend Developer in love with ReactJS an
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/usmaniam" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/usmaniam" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<a href="https://www.linkedin.com/in/usmaniam" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 <!--
 **usmaniam/usmaniam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
