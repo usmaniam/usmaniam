@@ -9,7 +9,7 @@ I'm a detail-oriented, self-motivated Frontend Developer in love with ReactJS an
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [usmanuiam@gmail.com](mailto:usmanuiam@gmail.com)
 * 🧠  I'm learning TypeScript
-* 🤝  I'm open to collaborating on all things Javascript/Fontend
+* 🤝  I'm open to collaborating on all things JavaScript/Frontend
 
 ### Skills
 
