@@ -4,7 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-I'm a detail-oriented, self-motivated Frontend Developer in love with ReactJS and married to JavaScript with TailwindCSS as a side chick (pun intended). Adept at both independent and collaborative projects, I enjoy breathing life into UI designs with code and I'm super religious about mobile-first approach. I believe learning to code is the best decision of my life. What I love most about coding is how tangible it feels to build software one piece at a time, how powerful it is to build amazing things from nothingness and how rewarding it is to solve problems with technology.
+I'm a detail-oriented, self-motivated Frontend Developer in love with ReactJS and married to JavaScript with TailwindCSS as a side chick (pun intended). Adept at both independent and collaborative projects, I enjoy breathing life into UI designs with code and I'm super religious about mobile-first approach. 
+
+I believe learning to code is the best decision of my life. What I love most about coding is how tangible it feels to build software one piece at a time, how powerful it is to build amazing things from nothingness and how rewarding it is to solve problems with technology.
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [usmanuiam@gmail.com](mailto:usmanuiam@gmail.com)
