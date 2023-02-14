@@ -10,7 +10,7 @@ I believe learning to code is the best decision of my life. What I love most abo
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [usmanuiam@gmail.com](mailto:usmanuiam@gmail.com)
-* 🧠  I'm learning TypeScript
+* 🧠  I'm currently exploring TypeScript and NextJS
 * 🤝  I'm open to collaborating on all things JavaScript/Frontend
 
 ### Skills
