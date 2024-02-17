@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Develpoer
 -------------
 
-I fell in love with the power of code when I first changed the look of my entire WordPress blog with one line of code (what I thought then were bunch of random characters). 
+My journey into coding began when I discovered the transformative power of code with a simple tweak to my WordPress blog's appearance using what initially seemed like a jumble of characters. From there, I progressed from tinkering with StackOverflow solutions to piecing together various WordPress plugins to craft comprehensive web applications.
 
-I went from adding StackOverflow code to change the color of a button to building full-blown web apps by combining different WordPress plugins. One of these apps was a payment app for tuition payment (EdFees) used by my school (where I was a teacher) and few others. 
+During a pivotal investment interview with 'Startup Wise Guys,' a question resonated deeply: 'Why rely on a patchwork of plugins for an MVP when you could learn to code?' This inquiry sparked a fundamental shift in my perspective, leading me to recognize the importance of technical proficiency.
 
-But when I built a SAAS e-commerce app (ChatCart) and had to use a gazillion plugins with WordPress MultiSite, I knew I needed to be technical. And during an interview with 'Startup Wise Guys' for potential investment, one of the interviewers asked "Why would you go to the extent of patching up countless plugins just to build an MVP? Why not learn to code?". It got me thinking. And here I am.
+Since then, fueled by a passion for innovation and armed with a dedication to mastering coding intricacies, I've been committed to creating robust, tailor-made solutions from the ground up.
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [usmanuiam@gmail,com](mailto:usmanuiam@gmail,com)
